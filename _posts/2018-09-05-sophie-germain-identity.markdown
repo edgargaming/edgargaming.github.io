@@ -5,7 +5,7 @@ description: "Google Spreadsheets is a Web-based application that allows users t
 mathjax: true
 typefix:
    indent: true
-date: 2016-02-05T03:47:56-05:00
+date: 2018-09-05T03:47:56-05:00
 ---
 
 My first blog		
