@@ -10,7 +10,7 @@ date: 2016-02-05T03:47:56-05:00
 
 My first blog		
 
->My first blog $n>1$.
+>My first blog 
 				
 My first blog
 \begin{align}
@@ -34,4 +34,4 @@ My first blog
 My first blog
 \end{equation}
 
-$My first blog$
+My first blog
