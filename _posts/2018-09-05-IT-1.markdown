@@ -1,0 +1,43 @@
+---
+layout: post-no-feature
+title: Python - 1
+description: "All the muppets poured into the room, unprepared for the wonders that awaited them..."
+mathjax: true
+typefix:
+   indent: true
+date: 2018-011-28-T03:47:56-05:00
+---
+
+Today's lesson was less about actual coding itself, but more about getting back into the computational thinking mindset. We started the lesson by talking about a cake.
+
+If you want to eat a cake, there are 2 ways to do it:
+
+>Method 1:
+>Ask your mum to make a cake
+This method involves asking someone else for help. This does get you to the end result, and it is the easiest method, but you don't achieve anything other than a ready cake - you don't know how to make a cake, where to get the ingredients, or even how to turn on an oven. A similar way of doing this would be to simply buy a ready made cake. Mr Keen gave us an example which outlined this method:
+>Suppose there is a new boy in school, and he asks you where to find a certain teacher. The easiest way for you to help/get rid of him would be to refer him to matron, as she would know what lesson the teacher would be in, and that is part of her job. This is the lazy method, as you aren't doing anything yourself. You could give direct instructions as to where the teachers office is, or what the teacher looks like, which means you are contributing and helping the new boy.
+
+>Method 2
+>Collect the ingredients to make a cake, and then make it
+This method involves actual work - you have to not only collect the ingredients, but also make the cake yourself, which can be very difficult. This is difficult because it makes you think and work, but this is also the only way you can learn and move forward. Many things can go wrong, but they will all mean you will learn from your mistakes. For example, you might not have followed the instructions well and, say, added too much flour. In terms of coding, you would not be following the instructions well enough. Alternatively, the ingredients might be bad. In terms of coding, the code mignt be outdated or for a previous version of your program/programming language. Lastly, it might be a recipe for the oven, but you microwaved it. In terms of coding, this might mean you have the wrong operating system or program, for example google sheets and not excel.
+
+\begin{align}
+	How to make tea...
+\end{align}
+
+Another task we were given in the lesson was to go, in groups of 3 or 4, and come up with a recipe for making tea.
+When we came back as a class, most of us had something about getting a kettle, filling it with water, boiling the water, pouring the water into a teacup, inserting a teabag and then adding sugar or milk. This method had many variables which were unspecified, so if a computer were to follow those instructions, it would most certainly fail to produce the desired end result.
+Here is something more computer-friendly, that isn't completely in code:
+>Items needed: kettle, teabag, water, milk, sugar, cup
+>Items you have: kettle, teabag, milk, cup
+>If length of Items needed is not equal to length of Items you have, fetch the items until length is the same
+This piece of 'code' would allow you to identify which items you don't have, which is crucial - you need to be able to do something before you say you can do it. Next you can add the actual recipe, with specified variables
+>...Boil 300ml of water for 3 minutes...
+>...Add 50ml of milk...
+After that, you might want to add some 'code' that would allow the recipe to be repeatable; that is, so you can follow the same instructions again
+>...Wash the cup for re-use...
+
+One last thing we did in class to help us in our computational thinking was a 'stand up' and 'sit down' excercise.
+We were told to stand up. None of us really thought about which muscles we needed to tense and relax, and where to put our centre of balance. It was all automatic, as we have been practicing standing up for most of our lives.
+Next, we were told to stand up again but slowly. This felt wierd as we actually had to think about the positioning of our feet and our balance - taking notice of all the little steps in between.
+Adding this to the tea excercise, just the step 'fetch sugar' would include many other lines of 'code' like 'go to the shop' or even 'breathe'.
