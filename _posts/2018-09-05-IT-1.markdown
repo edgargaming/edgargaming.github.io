@@ -5,7 +5,7 @@ description: "All the muppets poured into the room, unprepared for the wonders t
 mathjax: true
 typefix:
    indent: true
-date: 2018-011-28-T03:47:56-05:00
+date: 2018-11-28-T03:47:56-05:00
 ---
 
 Today's lesson was less about actual coding itself, but more about getting back into the computational thinking mindset. We started the lesson by talking about a cake.
